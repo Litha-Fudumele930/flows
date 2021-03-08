@@ -1,0 +1,5 @@
+flows:
+  a7e1c724-1c98-4e84-9351-5c489e0700d1: {ver: 1, file: flow.snapshot, comments: '',
+    author: 'CN=sys_admin, OU=NIFI', created: 1615197395681, flowName: flow, flowDesc: ''}
+layoutVer: 1
+bucketId: 92db7a53-b495-4887-a6b6-344915c64102
