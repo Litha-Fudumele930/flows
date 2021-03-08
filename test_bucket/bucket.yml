@@ -1,0 +1,6 @@
+flows:
+  96a68d3d-b312-4677-ba9a-50dd10ab36ec: {ver: 1, file: A_new_test.snapshot, comments: '',
+    author: 'CN=sys_admin, OU=NIFI', created: 1615198953429, flowName: A new test,
+    flowDesc: ''}
+layoutVer: 1
+bucketId: 8507559d-8ad4-42b9-b390-9a4639d73f93
